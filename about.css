@@ -1,0 +1,17 @@
+
+#Tarjeta{
+    display: flex;
+    justify-content: center;
+}
+#descripción {
+    background-color: black;
+    letter-spacing: normal;
+    color: white;
+    border-color: black;
+    padding-block: 10px;
+    width: 500px;
+    text-align: justify;
+    padding: 20px ;
+
+}
+
