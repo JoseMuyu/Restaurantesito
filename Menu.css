@@ -1,11 +1,6 @@
-html {
-    font-family: system-ui;
-}
 
 body {
-    margin: 2rem 0;
-    margin:300px;
-    height: 100vh;
+
     display: flex;
     align-items: center;
     justify-content: center;
@@ -29,7 +24,7 @@ a {
 
 .tarjeta-rest {
     background-repeat: no-repeat;
-    height: 400px;
+    height: 300px;
     border-radius: 6px;
     padding: 1rem .5rem;
     display: flex;
@@ -80,7 +75,7 @@ a {
 
 .wrap1{
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 50px 0;
   }
   
   .column-2.carta{
