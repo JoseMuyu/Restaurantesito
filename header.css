@@ -40,7 +40,6 @@ header {
 
 .logo img {
     height: 90%;
-    filter: invert(31%) sepia(89%) saturate(1368%) hue-rotate(338deg) brightness(85%) contrast(86%);
 }
 
 header a {
