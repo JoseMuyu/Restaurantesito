@@ -23,11 +23,12 @@ body {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    transition: all 0.5s ease-in;
+    transition: all 1s ease-in;
     align-items: center;
+    position: fixed;
   }
   .carousel-inner img {
-    aspect-ratio: 16 / 8;
+    aspect-ratio: 16/8;
     object-fit: cover;
   }
   img {
@@ -54,3 +55,5 @@ body {
     color: white;
     white-space: nowrap;
   }
+
+  
