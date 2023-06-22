@@ -28,7 +28,7 @@ body {
     aspect-ratio: 16/9;
     object-fit: cover;
   }
-  img {
+  .carouselExampleFade img {
     width: 100%;
   }
   
