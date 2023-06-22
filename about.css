@@ -1,10 +1,19 @@
 
+#nosotros {
+    background-image: url("img-About/tablero1.jpg"); /* Reemplaza "ruta_de_imagen.jpg" con la ruta y nombre de tu imagen de fondo */
+    background-repeat: repeat-y; /* Repetir la imagen verticalmente */
+    background-attachment: fixed; /* Fijar la imagen de fondo */
+    background-size: 100% auto;
+}
 #Tarjeta{
+    
     display: flex;
     justify-content: center;
+  
 }
-#descripción {
-    background-color: black;
+#descripción{
+    margin: 20px;
+    background-color: #334f53;
     letter-spacing: normal;
     color: white;
     border-color: black;
@@ -15,3 +24,24 @@
 
 }
 
+#contactanos {
+    margin: 50px;
+    padding: 10px;
+        color: aliceblue;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;    
+        list-style-type: none;
+    background-color: #334f53;
+    text-decoration: none; 
+}
+
+#redes {
+
+}
+
+
+
+   
