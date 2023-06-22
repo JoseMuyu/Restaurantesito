@@ -1,4 +1,8 @@
 *{
+    font-family: Trebuchet MS;
     margin: 0;
     padding: 0;
+}
+.atrasHeader{
+    margin-top: 80px;
 }
